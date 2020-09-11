@@ -8,7 +8,4 @@ $(function(){
 
     var mixer = mixitup('.sale__wrapper');
 
-
-
-    
 });
